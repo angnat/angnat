@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angnat
-- 👀 I’m interested in C#, Javascript, JQuery, Flutter
-- 🌱 I’m currently learning about Full Stack Developer
+- 👀 I’m interested in C#, Javascript, JQuery, Python, Flutter
+- 🌱 I’m currently learning about Machine Learning
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me angnat05@gmail.com
 
